@@ -1,3 +1,3 @@
-module github.com/yu-ko-ba/httpServer
+module github.com/yu-ko-ba/http-server
 
-go 1.17
+go 1.20
